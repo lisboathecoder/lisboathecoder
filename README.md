@@ -1,5 +1,5 @@
-﻿## <h1 align="center">Olá, meu nome é Gustavo Lisboa!</h1>
-<h3 align="center">Atualmente sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos!</h3>
+﻿## <h1 align="center"> 👋 Olá, meu nome é Gustavo Lisboa!</h1>
+<h3 align="center"> 🚀 Atualmente sou estudante de Desenvolvimento de Sistemas no SENAI Valinhos!</h3>
 
 <h3 align="left">Onde me encontrar</h3>
 <p align="left">
@@ -9,8 +9,10 @@
 </p>
 
 <h3 align="left">Minhas Skills</h3>
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p> <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
-
+<p align="left">
+<a target="blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+<a target="blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
 ### ⚙️ GitHub Analytics
 
