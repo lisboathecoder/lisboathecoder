@@ -8,7 +8,7 @@
 <a href="https://instagram.com/lisboathegoat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lisboathegoat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Minhas Skills</h3>
+<h3 align="left">Minhas Linguagens</h3>
 <p align="left">
 <a target="blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
@@ -24,16 +24,17 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&"
         alt="Github Stats"
       />
     </td>
   </tr>
 </table>
+
