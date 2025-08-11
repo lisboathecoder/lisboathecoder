@@ -24,19 +24,20 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true&(https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&count_private=true)"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&](https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&hide_border=true&include_all_commits=true&count_private=true&(https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)"
         alt="Github Stats"
       />
     </td>
   </tr>
 </table>
+
 
 
 
