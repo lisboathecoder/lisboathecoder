@@ -31,12 +31,13 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&layout=compact"(https://github-readme-stats.vercel.app/api/top-langs/?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&layout=compact)
+        src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
         alt="Github Stats"
       />
     </td>
   </tr>
 </table>
+
 
 
 
