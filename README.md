@@ -15,7 +15,8 @@
     </tr>
   </table>
 
----
+--- 
+
   <h3>💻 Skills</h3>
   <table>
     <tr>
@@ -25,6 +26,7 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </td>
     </tr>
   </table>
+  
 ---
 
 <p align="center">
@@ -41,4 +43,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx2gzqtyqlw7zlu2p3t6u255dq&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify" />
   </a>
 </p>
+
 
