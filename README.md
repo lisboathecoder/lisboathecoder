@@ -15,13 +15,6 @@
 </p>
 
 ---
-<h3 align="center" >⚙️ GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="Github Stats" />
-</p>
-
----
 
 <h3 align="center">📲 Find me here</h3>
 <p align="center">
@@ -34,6 +27,14 @@
   <a href="https://instagram.com/lisboathegoat" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lisboathegoat" height="30" width="40" />
   </a>
+</p> 
+
+---
+
+<h3 align="center" >⚙️ GitHub Analytics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="Github Stats" />
 </p>
 
 ---
@@ -43,6 +44,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx2gzqtyqlw7zlu2p3t6u255dq&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify" />
   </a>
 </p>
+
 
 
 
