@@ -40,10 +40,11 @@
 ---
  <h3 align="center">🎶 Spotify</h3>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/" target="_blank">
+  <a href="https://open.spotify.com/user/31xx2gzqtyqlw7zlu2p3t6u255dq" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx2gzqtyqlw7zlu2p3t6u255dq&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify" />
   </a>
 </p>
+
 
 
 
