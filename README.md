@@ -28,6 +28,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lisboathegoat" height="30" width="40" />
   </a>
 </p>
+
 ---
 
 <h3 align="center" >⚙️ GitHub Analytics</h3>
@@ -43,6 +44,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx2gzqtyqlw7zlu2p3t6u255dq&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify" />
   </a>
 </p>
+
 
 
 
