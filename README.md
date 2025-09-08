@@ -18,17 +18,16 @@
 
 <h3 align="center">📲 Find me here</h3>
 <p align="center">
-  <a href="https://twitter.com/lisboathegoat" target="">
+  <a href="https://twitter.com/lisboathegoat" style="text-decoration: none;" target="">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lisboathegoat" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/glisboa" target="">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glisboa" height="30" width="40" />
+  <a href="https://linkedin.com/in/glisboa" style="text-decoration: none;" target="">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glisboa" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/lisboathegoat" target="">
+  <a href="https://instagram.com/lisboathegoat" style="text-decoration: none;" target="">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lisboathegoat" height="30" width="40" />
   </a>
-</p> 
-
+</p>
 ---
 
 <h3 align="center" >⚙️ GitHub Analytics</h3>
@@ -44,6 +43,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx2gzqtyqlw7zlu2p3t6u255dq&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="Spotify" />
   </a>
 </p>
+
 
 
 
