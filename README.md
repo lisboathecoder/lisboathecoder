@@ -28,10 +28,3 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
 </p>
-
----
-
-<h3 align="center" >⚙️ GitHub Analytics</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lisboathecoder/lisboathecoder/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
