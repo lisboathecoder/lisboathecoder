@@ -1,8 +1,7 @@
 <p align="center">
-  <h2  align="center"> 👋 Yo, I am Gustavo Lisboa!</h2>
+  <h2 align="center"> 👋 Yo, I am Gustavo Lisboa!</h2>
   <h3> 🚀 Currently studying in the Systems Development course at SENAI Valinhos!</h3>
 </p>
-
 
 ---
 
@@ -13,21 +12,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="arch" width="40" height="40" />
-          
 </p>
 
 ---
 
 <h3 align="center">📲 Find me here</h3>
 <p align="center">
-  <a href="https://instagram.com/lisboathegoat" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lisboathegoat" height="40" width="40" />
+  <a href="https://instagram.com/lisboathegoat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
   </a>
-  <a href="https://x.com/lisboathegoat" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lisboathegoat" height="40" width="40" />
+  <a href="https://x.com/lisboathegoat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
   </a>
-   <a href="https://linkedin.com/in/glisboa" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="glisboa" height="40" width="40" />
+  <a href="https://linkedin.com/in/glisboa" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
 </p>
 
@@ -35,6 +33,5 @@
 
 <h3 align="center" >⚙️ GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/lisboathecoder/lisboathecoder/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
