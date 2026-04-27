@@ -19,11 +19,6 @@
   <a href="https://www.instagram.com/lisboathegoat/ " target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/lisboathegoat/ " target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/glisboa/ " target="_blank" style="color: #0A66C2; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
