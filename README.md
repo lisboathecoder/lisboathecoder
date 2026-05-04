@@ -28,7 +28,8 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisboathecoder&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisboathecoder&theme=github_dark&exclude=jupyter%20Notebook" alt="GitHub stats" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisboathecoder&theme=github_dark" alt="GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9799&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="GitHub stats" />
