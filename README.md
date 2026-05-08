@@ -16,7 +16,7 @@
 
 <h3 align="center">Find me here</h3>
 <p align="center">
-  <a href="https://www.instagram.com/lisboathegoat/ " target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/oglisboaaa/ " target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/glisboa/ " target="_blank" style="color: #0A66C2; text-decoration: none;">
