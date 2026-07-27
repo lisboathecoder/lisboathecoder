@@ -8,7 +8,7 @@
 <h3 align="center">Skills</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ?autoplay=1">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,py,postgresql,arch" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,py,postgresql" alt="Skills" />
   </a>
 </p>
 
